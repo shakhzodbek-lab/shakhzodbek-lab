@@ -4,7 +4,7 @@ Got it! Here's a README for your GitHub profile that highlights your skills, pro
 
 # 👋 Hi, I'm Shakhzodbek!
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+![Profile Banner](https://vraki.net/sites/default/files/mood/29.gif)
 
 ## 🚀 About Me
 I'm a Machine Learning and Blockchain Engineer, deeply passionate about the future and the possibilities that technology brings. My goal is to explore and innovate at the intersection of AI and blockchain, pushing the boundaries of what's possible.
@@ -22,12 +22,6 @@ I'm a Machine Learning and Blockchain Engineer, deeply passionate about the futu
 
 
 
-## 🌟 Highlights
-![Machine Learning Workflow](https://via.placeholder.com/600x300.png?text=Machine+Learning+Workflow)
-*Figure 1: Machine Learning Workflow*
-
-![Blockchain Structure](https://via.placeholder.com/600x300.png?text=Blockchain+Structure)
-*Figure 2: Blockchain Structure*
 
 ## 🌐 Connect with Me
 - LinkedIn: [Rakhmatov Shakhzodbek](https://www.linkedin.com/in/shakhzod-rakhmatov-71bb501a8/)
