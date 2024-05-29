@@ -1,4 +1,4 @@
-Senior in Integrated System Engineering, future ML engineer and Blockchain enthusiast.
+Bs (Integrated System Engineering), ML/blockchain
 
 <!---
 shakhzodbek-lab/shakhzodbek-lab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
