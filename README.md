@@ -1,6 +1,4 @@
-Got it! Here's a README for your GitHub profile that highlights your skills, projects, and passion for machine learning, blockchain, and futurism:
 
----
 
 # 👋 Hi, I'm Shakhzodbek!
 
